@@ -1,0 +1,13 @@
+//Items
+item.jasite_gem.name=Jasite Gem
+
+//Tools
+item.jasite_sword.name=Jasite Sword
+item.jasite_pickaxe.name=Jasite Pickaxe
+item.jasite_axe.name=Jasite Axe
+item.jasite_shovel.name=Jasite Shovel
+item.jasite_hoe.name=Jasite Hoe
+
+//Blocks
+tile.jasite_block.name=Jasite Block
+tile.jasite_ore.name=Jasite Ore

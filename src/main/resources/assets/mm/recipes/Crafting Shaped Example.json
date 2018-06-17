@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRS",
+        "R S",
+        "RSS"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "modid:object"
+        }
+    },
+    "S":
+        {
+            "item": "modid:object_2"
+        }
+    }
+    
+    "result":
+    {
+        "item": "modid:object",
+        "count": 1
+    }
+}
